@@ -4,9 +4,9 @@ import numpy as np
 def find_local_maxima(a):
     a = np.array(a)
 
-    maxima_mask = (a[1:-1] >= a[:-2]) & (a[1:-1] >= a[2:])
+    max_mask = (a[1:-1] >= a[:-2]) & (a[1:-1] >= a[2:])
 
-    return a[1:-1][maxima_mask]
+    return a[1:-1][max_mask]
 
 
 # Example

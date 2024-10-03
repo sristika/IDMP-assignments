@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c769e02-bc12-4ad3-a2db-4196fb17a036" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a2/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a3/PandasEx.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a3/flights.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/a3" />
       <recent name="$PROJECT_DIR$/src/a1" />
     </key>
   </component>
@@ -74,7 +76,8 @@
       <workItem from="1726597700952" duration="6577000" />
       <workItem from="1726667074135" duration="7266000" />
       <workItem from="1726789621359" duration="4542000" />
-      <workItem from="1727386596577" duration="6220000" />
+      <workItem from="1727386596577" duration="8183000" />
+      <workItem from="1727971973125" duration="1288000" />
     </task>
     <servers />
   </component>
@@ -82,13 +85,13 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1727387389584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a2" />
     <SUITE FILE_PATH="coverage/pythonProject$q4.coverage" NAME="q4 Coverage Results" MODIFIED="1727391522862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a2" />
+    <SUITE FILE_PATH="coverage/pythonProject$q1.coverage" NAME="q1 Coverage Results" MODIFIED="1727393389862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a2" />
     <SUITE FILE_PATH="coverage/pythonProject$q7.coverage" NAME="q7 Coverage Results" MODIFIED="1726790518087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a1" />
-    <SUITE FILE_PATH="coverage/pythonProject$q2.coverage" NAME="q2 Coverage Results" MODIFIED="1727393005891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a2" />
+    <SUITE FILE_PATH="coverage/pythonProject$q2.coverage" NAME="q2 Coverage Results" MODIFIED="1727393344604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a2" />
     <SUITE FILE_PATH="coverage/pythonProject$q5.coverage" NAME="q5 Coverage Results" MODIFIED="1727390566476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a2" />
-    <SUITE FILE_PATH="coverage/pythonProject$q6.coverage" NAME="q6 Coverage Results" MODIFIED="1726668703804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a1" />
     <SUITE FILE_PATH="coverage/pythonProject$q8.coverage" NAME="q8 Coverage Results" MODIFIED="1726793739833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a1" />
+    <SUITE FILE_PATH="coverage/pythonProject$q6.coverage" NAME="q6 Coverage Results" MODIFIED="1727393412748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a2" />
     <SUITE FILE_PATH="coverage/pythonProject$q3.coverage" NAME="q3 Coverage Results" MODIFIED="1727391848204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/a2" />
   </component>
 </project>

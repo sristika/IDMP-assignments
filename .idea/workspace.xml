@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c769e02-bc12-4ad3-a2db-4196fb17a036" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a3/PandasEx.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a3/flights.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a3/PandasEx.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/a3/PandasEx.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a3/flights.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/a3/flights.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,8 @@
       <workItem from="1726667074135" duration="7266000" />
       <workItem from="1726789621359" duration="4542000" />
       <workItem from="1727386596577" duration="8183000" />
-      <workItem from="1727971973125" duration="1288000" />
+      <workItem from="1727971973125" duration="3170000" />
+      <workItem from="1728001325720" duration="3481000" />
     </task>
     <servers />
   </component>
